@@ -2,7 +2,7 @@
 ![](img/newlogo.png)
 
 **Course Date:** 08.03.2021 
-**Name:** Tuğberk 
+**Name:** Tuğberk
 **Surname:** Özkara
 **Email:** t.ozkara99@gmail.com
 
