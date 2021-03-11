@@ -9,11 +9,11 @@
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
 
 ## Project Name
-Quiz1 - 90/100
-Quiz2 - 90/100
-Quiz3 - 90/100
-Quiz4 - could not send
-Quiz5 - ../100
+Quiz1 - 90/100  
+Quiz2 - 90/100  
+Quiz3 - 90/100  
+Quiz4 - could not send  
+Quiz5 - ../100  
 
 ## Requirements
 ```
