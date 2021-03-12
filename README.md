@@ -6,13 +6,13 @@
 **Surname:** Özkara  
 **Email:** t.ozkara99@gmail.com  
 
-**Note:** My homeworks' formats are ".py". And I'm 100% sure that my codes work.    
+**Note:** My homeworks' formats are "**.py**". And I'm **100%** sure that my codes work.    
 
 ## Project Name
 Quiz1 - 90/100  
 Quiz2 - 90/100  
 Quiz3 - 90/100  
-Quiz4 - could not send due to time
+Quiz4 - could not send due to time  
 Quiz5 - 80/100  
 
 ## Requirements
