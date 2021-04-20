@@ -36,6 +36,9 @@ def scorecheck():
     elif points >= 100:
         print("Your score is " + str(points) + ". You're amazing! This is the highest score!!!")
 
+def fin():
+    scorecheck()
+    exit()
 
 qas = {'Q1 - What is the name of the instructor of the course "Introduction to Python" in Global AI Hub?\n--> ':'Ömer Cengiz',
 'Q2 - Who is the first that mentions about Turing Test?\n--> ':'Alan Turing',
@@ -56,25 +59,19 @@ for k, v in qas.items():
         print(yay)
         points += 10
         if m == len(qas):
-            scorecheck()
-            exit()
+            fin()
         print("Your current point is:", points)
         while contin() == False:
-            scorecheck()
-            exit()
+            fin()
     elif answer.casefold() == v.casefold():
         print(sense)
         if m == len(qas):
-            scorecheck()
-            exit()
+            fin()
         while contin() == False:
-            scorecheck()
-            exit()
+            fin()
     else:
         print(nah)
         if m == len(qas):
-            scorecheck()
-            exit()
+            fin()
         while contin() == False:
-            scorecheck()
-            exit()
+            fin()
