@@ -3,8 +3,7 @@
 
 **Course Date:** 08.03.2021 - 12.03.2021    
 **Name:** Tuğberk  
-**Surname:** Özkara  
-**Email:** t.ozkara99@gmail.com  
+**Surname:** Özkara    
 
 **Note:** My homeworks' formats are "**.py**". And I'm **100%** sure that my codes work.    
 
